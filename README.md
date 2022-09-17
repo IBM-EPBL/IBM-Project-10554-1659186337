@@ -1,4 +1,4 @@
-# Personal Expense Tracker Application
+# Personal Expense Tracker Application![55800064-67720300-5b05-11e9-821c-e13434313f3f](https://user-images.githubusercontent.com/65845589/190845342-bb1f38a0-dd19-4535-bba0-e2d5f52a2a47.gif)
 # Introduction
 In simple words, personal finance entails all the financial decisions and activities that a Finance app makes your life easier by helping you to manage your finances efficiently. A personal finance app will not only help you with budgeting and accounting but also give you helpful insights about money management.
 Personal finance applications will ask users to add their expenses and based on their expenses wallet balance will be updated which will be visible to the user.  Also, users can get an analysis of their expenditure in graphical forms. They have an option to set a limit for the amount to be used for that particular month if the limit is exceeded the user will be notified with an email alert.
