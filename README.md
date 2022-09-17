@@ -20,4 +20,4 @@ will help them decrease their burdens.
 "Expense Tracker Application" is an application that allows the user to enter their
 daily expenses at the end of the day to see their expenses in charts. Based on the
 analysis of their daily expenses, the application gives suggestions on how to
-increase their passive income
+increase their passive income.
